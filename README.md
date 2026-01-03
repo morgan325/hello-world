@@ -1,3 +1,3 @@
 # tecplot writer
 
-output datafiels of tecplot
+output data files for tecplot
